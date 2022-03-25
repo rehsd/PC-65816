@@ -1,0 +1,5 @@
+*** USE AT YOUR OWN RISK ***
+
+These are the design files I used for the original PCB order. These files have not been corrected in any way. I will post updated designs as I correct issues.
+
+These files were generated in EasyEDA 6.5.1.
