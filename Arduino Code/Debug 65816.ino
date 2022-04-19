@@ -1,6 +1,5 @@
 /*
  Name:		Debug 65816.ino
- Created:	23 January 2021
  Author:	rehsd
 */
 
