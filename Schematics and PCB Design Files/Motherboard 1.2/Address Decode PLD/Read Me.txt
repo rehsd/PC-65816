@@ -3,3 +3,5 @@
 *.png -- overview of the address decode logic I am using
 
 *.jed -- compiled file to be burned to PLD, based on .png and .dig above
+
+How to: https://www.rehsdonline.com/post/using-gal22v10-programmable-logic-devices
